@@ -1,0 +1,9 @@
+column,reported_correct,reported_checked,other_correct,other_checked,sample_correct,sample_checked,sample_accuracy,reported_ci_low,reported_ci_high
+measure_id,10,10,5,5,15,15,1.0,0.7224598312333834,1.0
+measure_name,10,10,5,5,15,15,1.0,0.7224598312333834,1.0
+measure_type_raw,10,10,5,5,15,15,1.0,0.7224598312333834,1.0
+measure_type,10,10,5,5,15,15,1.0,0.7224598312333834,1.0
+fiscal_year,10,10,5,5,15,15,1.0,0.7224598312333834,1.0
+revenue_forgone_amount,10,10,5,5,15,15,1.0,0.7224598312333834,1.0
+amount_status,10,10,5,5,15,15,1.0,0.7224598312333834,1.0
+source_page,10,10,5,5,15,15,1.0,0.7224598312333834,1.0
